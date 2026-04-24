@@ -4,7 +4,7 @@
 I am a UofT graduate who completed a program in Statistical Machine Learning with a passion for building web applications, creating games, and exploring various technologies, from CSS frameworks like Tailwindcss AI automation like Make.com. 
 
 ## Projects
-- [**Kaggle competition submissions**]((https://github.com/JeffreyWong05/Kaggle-competition-submissions)): Participated in various ML model building competitions with reasonable scores at the top 25%. Applied various skills from feature engineering using heatmaps, data cleaning, and model stacking.
+- [**Kaggle competition submissions**](https://github.com/JeffreyWong05/Kaggle-competition-submissions): Participated in various ML model building competitions with reasonable scores at the top 25%. Applied various skills from feature engineering using heatmaps, data cleaning, and model stacking.
 - [**YGO AI card generator**](https://github.com/JeffreyWong05/ygoAIcardGenerator): Generate a custom Yu-gi-oh trading card based on a name provided by the user, ran on a local server using React and OpenAI API.
 - [**Modified Tetris**](https://github.com/JeffreyWong05/JeffreyWong05.github.io): Tetris with modfied rules to develop a unique gameplay experience. This game is hosted on Github Pages, in my portfolio [here](https://jeffreywong05.github.io/)
 - [**Ramen Recommender**](https://github.com/JeffreyWong05/Ramen-Recommender): Recommends various ramen products based on user preference on location, star rating, and other factors, hosted locally with React, connected to MongoDB where a Kraggle dataset is stored, connected to the backend using Flask as a framework.
