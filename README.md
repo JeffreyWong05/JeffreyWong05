@@ -4,6 +4,7 @@
 I am a UofT graduate who completed a program in Statistical Machine Learning with a passion for building web applications, creating games, and exploring various technologies, from CSS frameworks like Tailwindcss AI automation like Make.com. 
 
 ## Projects
+- [**PolicyLens: A Plain-English Policy Document Decoder**](https://github.com/JeffreyWong05/PolicyLens): A privacy-first web app that parses PDF and DOCX policy documents client-side and uses the Google Gemini API via a Netlify serverless proxy to produce structured, role-tailored plain-English summaries.
 - [**Kaggle competition submissions**](https://github.com/JeffreyWong05/Kaggle-competition-submissions): Participated in various ML model building competitions with reasonable scores at the top 25%. Applied various skills from feature engineering using heatmaps, data cleaning, and model stacking.
 - [**YGO AI card generator**](https://github.com/JeffreyWong05/ygoAIcardGenerator): Generate a custom Yu-gi-oh trading card based on a name provided by the user, ran on a local server using React and OpenAI API.
 - [**Modified Tetris**](https://github.com/JeffreyWong05/JeffreyWong05.github.io): Tetris with modfied rules to develop a unique gameplay experience. This game is hosted on Github Pages, in my portfolio [here](https://jeffreywong05.github.io/)
